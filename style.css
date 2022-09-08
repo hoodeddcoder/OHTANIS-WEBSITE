@@ -143,13 +143,13 @@ h3 span,
 h4 span,
 h5 span,
 h6 span {
-    color: #CE2020;
+    color: #CB29F7;
 
 }
 
 h2 {
     font-size: 60px;
-    color: #CE2020;
+    color: #CB29F7;
     margin: 0 0 22px;
     text-transform: uppercase;
     letter-spacing: 0.135em;
@@ -182,7 +182,7 @@ h6:last-child {
 a {
     text-decoration: none !important;
     outline: none !important;
-    color: #CE2020;
+    color: #CB29F7;
     font-weight: bold;
 }
 
@@ -337,7 +337,7 @@ input[type="file"] ~ label {
 input[type="file"] ~ label::after {
     content: "\e92f";
     font-family: 'Russo One', sans-serif;
-    color: #CE2020;
+    color: #CB29F7;
     font-size: 30px;
     position: absolute;
     top: 50%;
@@ -400,7 +400,7 @@ select:focus {
     font-size: 30px;
     line-height: 1.09em;
     letter-spacing: 0.175em;
-    color: #ce2020;
+    color: #CB29F7;
     background: #ffffff;
     overflow: hidden;
     position: relative;
@@ -682,7 +682,7 @@ select:focus {
     display: block;
     width: 0;
     height: 2px;
-    background: #CE2020;
+    background: #CB29F7;
     /* opacity: 0; */
     position: absolute;
     bottom: -10px;
@@ -696,7 +696,7 @@ select:focus {
 .navbar-nav>li.current-menu-item>a,
 .navbar-nav>li>a:hover,
 .navbar-nav>li.menu-item-has-children:hover>a {
-    color: #CE2020;
+    color: #CB29F7;
 }
 
 .navbar-nav>li.current-menu-item>a:after,
@@ -773,7 +773,7 @@ select:focus {
 .sub-menu>li>a:hover,
 .sub-menu>li.menu-item-has-children:hover>a,
 .sub-menu>li.current-menu-item>a {
-    background: #CE2020;
+    background: #CB29F7;
     color: #fff;
 }
 
@@ -962,7 +962,7 @@ select:focus {
     right: 0;
     width: 3px;
     height: 100%;
-    background: linear-gradient(180deg, #CE2020 0%, #CE2020 101.19%);
+    background: linear-gradient(180deg, #CB29F7 0%, #CB29F7 101.19%);
     z-index: 9;
 }
 
@@ -1060,12 +1060,12 @@ select:focus {
 }
 
 .artist-info h4:hover {
-    color: #CE2020;
+    color: #CB29F7;
 }
 
 .modal {
     z-index: 9999999999;
-    color: #CE2020 ;
+    color: #CB29F7 ;
 }
 
 .modal-backdrop.show {
@@ -1074,7 +1074,7 @@ select:focus {
 
 .modal-body {
     background: #000000;
-    border: 4px double #CE2020;
+    border: 4px double #CB29F7;
     box-shadow: 0 0 12px #a31818;
 }
 
@@ -1083,7 +1083,7 @@ select:focus {
     top: 0;
     right: 0;
     z-index: 99;
-    color: #CE2020;
+    color: #CB29F7;
     font-size: 25px;
     width: 40px;
     height: 40px;
@@ -1128,7 +1128,7 @@ select:focus {
 .artist-modal-image {
     width: 200px;
     margin: 0 auto 24px;
-    border: 7px double #CE2020;
+    border: 7px double #CB29F7;
 }
 
 .artist-info p {
@@ -1159,7 +1159,7 @@ select:focus {
     left: -12px;
     width: 196px;
     height: 196px;
-    background: linear-gradient(90deg, #CE2020 -29.23%, #CE2020 93.85%);
+    background: linear-gradient(90deg, #CB29F7 -29.23%, #CB29F7 93.85%);
     z-index: -1;
 }
 
@@ -1170,7 +1170,7 @@ select:focus {
     right: -12px;
     width: 196px;
     height: 196px;
-    background: linear-gradient(90deg, #CE2020 -29.23%, #CE2020 93.85%);
+    background: linear-gradient(90deg, #CB29F7 -29.23%, #CB29F7 93.85%);
     z-index: -1;
 }
 
@@ -1298,7 +1298,7 @@ select:focus {
     right: 12px;
     width: 24px;
     height: 3px;
-    background: #CE2020;
+    background: #CB29F7;
     box-shadow: 0px 4px 6px #000000;
     transform: translate(0,-50%);
     transition: all .4s ease-in-out;
@@ -1311,7 +1311,7 @@ select:focus {
     right: 22px;
     width: 3px;
     height: 24px;
-    background:  #CE2020;
+    background:  #CB29F7;
     box-shadow: 0px 4px 6px #000000;
     transform: translate(0,-50%);
     transition: all .4s ease-in-out;
@@ -1472,7 +1472,7 @@ select:focus {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    background: #CE2020;
+    background: #CB29F7;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1499,7 +1499,7 @@ select:focus {
     font-weight: bold;
     font-size: 44px;
     letter-spacing: 0.135em;
-    color: #CE2020;
+    color: #CB29F7;
     margin-bottom: 18px;
 }
 
